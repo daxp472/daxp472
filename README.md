@@ -1,23 +1,42 @@
-# Hi there 👋, I'm Dax Patel!  
-### 🚀 Full-Stack Developer | 🎮 Game Enthusiast | 💻 Problem Solver  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=500&color=F700FF&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Dax+Patel!;🚀+Full-Stack+Developer;🎮+Game+Enthusiast;💻+Problem+Solver+%26+Creator" alt="Typing SVG" />
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=daxp472&color=blueviolet&style=flat-square)
+<div align="center">
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text=Dax%20Patel's%20GitHub%20Profile&width=800&height=200" alt="GitHub Banner" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=daxp472&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/daxp472?label=Followers&style=flat-square&color=red" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/daxp472?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/59393136/206877457-93f54aa6-5d0e-4761-9ec4-c8b6d32bffbc.gif" width="100%" alt="Header Animation">
+</div>
 
 ---
 
 ## 🔥 About Me:
 - 🌟 Passionate about **Game Development** and **Advanced Animations**.  
-- 🎮 Working on **ERROR** and **Infinite Dungeon**.  
+- 🎮 Currently working on **ERROR** and **Infinite Dungeon**.  
 - 🌱 Exploring **Backend Development** and **API Integration**.  
 - 📖 Learning **CSE** and **Hacking** for **Building Secure Games**.  
-- 🎯 Goal: Create **World-Class Games** and a **Trillion-Dollar Net Worth**.  
+- 🎯 My goal: Create **World-Class Games** and achieve a **Trillion-Dollar Net Worth**!  
 
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dax_Patel-blue?style=flat&logo=linkedin)](https://linkedin.com/in/daxp472)  
-[![Twitter](https://img.shields.io/badge/Twitter-@dax_patel-blue?style=flat&logo=twitter)](https://twitter.com/dax_patel)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=web)](https://infinite-dungeon.netlify.app/)  
+<div align="center">
+  <a href="https://linkedin.com/in/dax_CG" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Dax_Patel-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/dax-cg" target="_blank"><img src="https://img.shields.io/badge/Twitter-@dax_patel-blue?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://infinite-dungeon.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=web&logoColor=white" /></a>
+</div>
 
 ---
 
@@ -30,35 +49,32 @@
 ---
 
 ## 🛠️ Tools & Tech Stack:
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=flat&logo=tailwindcss&logoColor=white)  
-
----
-
-## 🌟 Fun Stuff:
-- ⚡ **Fun Fact:** I believe the future belongs to **gamers and creators!**  
-- 🤖 **Current Hobby:** Experimenting with **game engines** and **API projects**.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,tailwind" alt="Tech Stack" />
+</div>
 
 ---
 
 ## 🚀 Highlighted Projects:
 - 🎮 [**ERROR**](https://github.com/daxp472/ERROR): High-action multiplayer gaming project.  
 - 🧩 [**Infinite Dungeon**](https://github.com/daxp472/Infinite-Dungeon): Puzzle adventure game with dystopian themes.  
-- 📽️ [**Ultimate Explore**](https://github.com/daxp472/Ultimate-Explore): API-driven project fetching real-time data.
+- 📽️ [**Ultimate Explore**](https://github.com/daxp472/Ultimate-Explore): API-driven project fetching real-time data.  
 
 ---
 
-## 🎨 Custom Animations:  
-![Snake Animation](https://github.com/daxp472/daxp472/blob/output/github-contribution-grid-snake.svg)
+## 🎨 Custom Animations:
+<div align="center">
+  <img src="https://github.com/daxp472/daxp472/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
 
 ---
 
-## 💬 Connect with Me:  
-**Drop a message anytime** on [LinkedIn](https://linkedin.com/in/daxp472) or [Twitter](https://twitter.com/dax_patel)!  
+## 💬 Fun Fact:
+⚡ I believe the future belongs to **gamers and creators!**  
+🤖 Currently experimenting with **game engines** and **API projects**.
 
 ---
+
+<div align="center">
+  <img src="https://github.com/daxp472/daxp472/blob/main/assets/wave.svg" width="100%" alt="Wave Animation">
+</div>
