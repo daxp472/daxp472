@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text=Dax%20Patel's%20GitHub%20Profile&width=800&height=200" alt="GitHub Banner" />
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text=Dax%20Patel's%20GitHub%20Profile&width=800&height=200" alt="GitHub Banner" /> Welcome to my Github
 </div>
 
 ---
