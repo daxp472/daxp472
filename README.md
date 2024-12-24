@@ -1,9 +1,9 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=500&color=F700FF&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Dax+Patel!;🚀+Full-Stack+Developer;🎮+Game+Enthusiast;💻+Problem+Solver+%26+Creator" alt="Typing SVG" />
+<div align="center" style="background: linear-gradient(90deg, #ff8a00, #e52e71, #9b00ff); color: white; padding: 20px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=500&color=F7F7F7&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+My+GitHub+Profile!;Hi+there+%F0%9F%91%8B%2C+I'm+Dax+Patel!;🚀+Full-Stack+Developer;🎮+Game+Enthusiast;💻+Problem+Solver+%26+Creator" alt="Typing Animation" />
 </div>
 
 <div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text=Dax%20Patel's%20GitHub%20Profile&width=800&height=200" alt="GitHub Banner" /> Welcome to my Github
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text=Dax%20Patel's%20GitHub%20Profile&width=800&height=200" alt="GitHub Banner" />
 </div>
 
 ---
@@ -64,7 +64,7 @@
 
 ## 🎨 Custom Animations:
 <div align="center">
-  <img src="https://github.com/daxp472/daxp472/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ---
