@@ -18,7 +18,6 @@
   <img src="https://user-images.githubusercontent.com/59393136/206877457-93f54aa6-5d0e-4761-9ec4-c8b6d32bffbc.gif" width="100%" alt="Header Animation">
 </div>
 
----
 
 ## 🔥 About Me:
 - 🌟 Passionate about **Game Development** and **Advanced Animations**.  
@@ -71,8 +70,3 @@
 ⚡ I believe the future belongs to **gamers and creators!**  
 🤖 Currently experimenting with **game engines** and **API projects**.
 
----
-
-<div align="center">
-  <img src="https://github.com/daxp472/daxp472/blob/main/assets/wave.svg" width="100%" alt="Wave Animation">
-</div>
