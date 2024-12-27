@@ -14,10 +14,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/59393136/206877457-93f54aa6-5d0e-4761-9ec4-c8b6d32bffbc.gif" width="100%" alt="Header Animation">
-</div>
-
 
 ## 🔥 About Me:
 - 🌟 Passionate about **Game Development** and **Advanced Animations**.  
