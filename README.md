@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=500&color=F7F7F7&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+My+GitHub+Profile!;Hi+there+%F0%9F%91%8B%2C+I'm+Dax+Patel!;🚀+Full-Stack+Developer;🎮+Game+Enthusiast;💻+Problem+Solver+%26+Creator" alt="Typing Animation" />
 </div>
 
-
-
 ---
 
 <div align="center">
@@ -13,7 +11,6 @@
 </div>
 
 ---
-
 
 ## 🔥 About Me:
 - 🌟 Passionate about **Game Development** and **Advanced Animations**.  
@@ -35,8 +32,8 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daxp472&show_icons=true&theme=radical&hide_border=true" alt="Dax's GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daxp472&theme=radical&hide_border=true" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=daxp472&show_icons=true&theme=radical&hide_border=true" alt="Dax's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daxp472&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 ---
@@ -65,4 +62,3 @@
 ## 💬 Fun Fact:
 ⚡ I believe the future belongs to **gamers and creators!**  
 🤖 Currently experimenting with **game engines** and **API projects**.
-
