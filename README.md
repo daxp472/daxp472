@@ -14,7 +14,7 @@
 
 ## 🔥 About Me:
 - 🌟 Passionate about **Game Development** and **Advanced Animations**.  
-- 🎮 Currently working on **ERROR** and **Infinite Dungeon**.  
+- 🎮 Currently working on **GameZone** and **Infinite Dungeon**.  
 - 🌱 Exploring **Backend Development** and **API Integration**.  
 - 📖 Learning **CSE** and **Hacking** for **Building Secure Games**.  
 - 🎯 My goal: Create **World-Class Games** and achieve a **Trillion-Dollar Net Worth**!  
@@ -46,7 +46,7 @@
 ---
 
 ## 🚀 Highlighted Projects:
-- 🎮 [**ERROR**](https://github.com/daxp472/ERROR): High-action multiplayer gaming project.  
+- 🎮 [**GameZone**](https://github.com/daxp472/game_zone): High-action multiplayer gaming project.  
 - 🧩 [**Infinite Dungeon**](https://github.com/daxp472/Infinite-Dungeon): Puzzle adventure game with dystopian themes.  
 - 📽️ [**Ultimate Explore**](https://github.com/daxp472/Ultimate-Explore): API-driven project fetching real-time data.  
 
