@@ -17,7 +17,7 @@
 - 🎮 Currently working on **GameZone** and **Infinite Dungeon**.  
 - 🌱 Exploring **Backend Development** and **API Integration**.  
 - 📖 Learning **CSE** and **Hacking** for **Building Secure Games**.  
-- 🎯 My goal: Create **World-Class Games** and achieve a **Trillion-Dollar Net Worth**!  
+- 🎯 My goal: Create **World-Class Games** and achieve a **Billion-Dollar Net Worth**!  
 
 ---
 
@@ -25,7 +25,7 @@
 <div align="center">
   <a href="https://linkedin.com/in/dax_CG" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Dax_Patel-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/dax-cg" target="_blank"><img src="https://img.shields.io/badge/Twitter-@dax_patel-blue?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://infinite-dungeon.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=web&logoColor=white" /></a>
+  <a href="https://dax-patel.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=web&logoColor=white" /></a>
 </div>
 
 ---
