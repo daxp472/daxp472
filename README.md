@@ -243,20 +243,12 @@ graph LR
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dax_Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dax_CG)
-[![Twitter](https://img.shields.io/badge/Twitter-@dax__cg-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dax-cg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dax_Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dax-CG)
+[![Twitter](https://img.shields.io/badge/Twitter-@dax__cg-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dax_cg)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dax-patel.netlify.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/daxp472)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daxpatel472@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/daxCG)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daxpatel.cg@gmail.com)
 
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 ---
@@ -277,7 +269,7 @@ graph LR
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - 🌟 Master Cloud Architecture with AWS
 - 🚀 Contribute to 10+ Open Source Projects
