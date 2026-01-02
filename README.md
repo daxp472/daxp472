@@ -180,9 +180,7 @@ const dax = {
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=daxp47](https://github-profile-trophy.vercel.app/?username=daxp472&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)" alt="GitHub Trophies"/>
-</div>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=daxp472&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
 
 ---
 
