@@ -190,15 +190,15 @@ const dax = {
 
 <div align="center">
 
-<a href="https://github.com/daxp472/game_zone">
+<a href="[https://github.com/daxp472/game_zone](https://github.com/daxp472/game_zone)">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daxp472&repo=game_zone&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B" />
 </a>
 
-<a href="https://github.com/daxp472/Infinite-Dungeon">
+<a href="[https://github.com/daxp472/Infinite-Dungeon](https://github.com/daxp472/ODOO_25)">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daxp472&repo=Infinite-Dungeon&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B" />
 </a>
 
-<a href="https://github.com/daxp472/Ultimate-Explore">
+<a href="[https://github.com/daxp472/Ultimate-Explore](https://github.com/daxp472/Expense_Odoo)">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daxp472&repo=Ultimate-Explore&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B" />
 </a>
 
