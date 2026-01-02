@@ -180,7 +180,7 @@ const dax = {
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=daxp472&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=daxp472&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&v=1)
 
 ---
 
