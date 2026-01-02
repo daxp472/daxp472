@@ -163,10 +163,10 @@ const dax = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daxp472&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B&text_color=FFFFFF"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daxp472&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=8"/>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=daxp472&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=FF6B6B&fire=FFA500&currStreakLabel=6C63FF" alt="GitHub Streak Stats"/>
@@ -180,9 +180,9 @@ const dax = {
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
+<!-- <div align="center"> -->
   <img src="https://github-profile-trophy.vercel.app/?username=daxp472&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
+<!-- </div> -->
 
 ---
 
